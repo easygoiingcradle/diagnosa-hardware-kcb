@@ -62,4 +62,5 @@ if st.button("Mulai Diagnosa"):
             st.success("Sistem tidak menemukan kecocokan aturan. Disarankan cek ke teknisi untuk gejala tambahan tersebut.")
 
 # FOOTER (BAB 1.3)
+
 st.caption("Target Performa: Inference Time < 100ms | Akurasi berdasarkan Knowledge Base.")
